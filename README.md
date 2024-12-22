@@ -14,8 +14,8 @@ The design document served as a roadmap for aligning the technical architecture 
 ###### 4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 I would revise the evaluation of operating platforms to include more details about real-world cost implications and user experience on each platform. Adding case studies or performance benchmarks could provide stronger justification for the platform recommendations. 
 
-####### 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+###### 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 The user's needs were interpreted through a combination of analyzing the game’s intended functionality and creating user stories that highlighted key interactions, such as joining teams and starting sessions. This guided the creation of unique identifiers and platform-independent designs. Considering user needs is crucial because it ensures that the software delivers a seamless experience, ultimately driving user satisfaction and engagement. 
 
-######## 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+###### 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 The design focused on modularity, using principles like abstraction and encapsulation to simplify complex game logic. Techniques such as creating a domain model and evaluating architectural constraints helped align the software with client goals. In the future, I would incorporate more prototyping to gather user feedback earlier and apply iterative design to refine features during development. 
